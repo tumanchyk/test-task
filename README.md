@@ -1,4 +1,4 @@
-#Tweets
+# Tweets app
 
 An application where you can find and follow your favorite heroes from the superhero universe.
 
